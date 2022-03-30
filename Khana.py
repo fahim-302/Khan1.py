@@ -118,21 +118,40 @@ def tik():
 
 logo = """
 
-              
+              \        /
+    __\______/__
+    | [©]  [©] |​
+    |  [====]  | [+] BANNU HACKER [+]
+╔══o00════════00o═════════════════════════╗
+█  [•] Author    :   Fahim302_            █
+█  [•] Whatsapp  :   +923355528534         █
+█  [•] Whatsapp  :   Black302_            █
+█  [•] Grup Fb   :   Termux Command World █
+█  [•] Version   :   0.3                  █
+╚═════════════════════════════════════════╝
+-------------------------------------------
+ [✓] Your Key : 10202439493102026372==
+-------------------------------------------
+-------------------------------------------
+ [✓] Tool    : Old Cracking
+ [✓] Expired : Your Key Not Registered
+ [✓] Status  : Trail
+-------------------------------------------
+ [01] 2003 Account Cloning [V-slow]
+ [02] 2004 Account Cloning [V-slow]
+ [03] 2005 Account Cloning [Slow]
+ [04] 2006 Account Cloning [Fast]
+ [05] 2007 Account Cloning [Fast]
+ [06] 2008 Account Cloning [Fast]
+ [07] 2009 Account Cloning [Fast]
+ [08] 2010 Account Cloning [Fast]
+ [09] Random Uid Cloning [Mix]
+ [10] Upgrade To [Premium]
+------------------------------------------
 
     
 
-\x1b[1;91m______    _     _           
-
-\x1b[1;91m|  ___|  | |   (_)           
-
-\x1b[1;91m| |_ __ _| |__  _ _ \x1b[1;91m__ ___   
-
-\x1b[1;91m|  _/ _` | '_ \| | '_ \x1b[1;91m` _ \  
-
-\x1b[1;91m| || (_| | | | | | | | | \x1b[1;91m| | 
-
-\x1b[1;91m\_| \__,_|_| \x1b[1;91m|_|_|_| |_| |_|                                                                                                                                                         
+                                                                                                                                                       
 
 \x1b[1;92m_________________________________________________
 
